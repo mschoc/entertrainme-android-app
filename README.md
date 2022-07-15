@@ -6,9 +6,9 @@
 
 ## Features
 - Connection search of public transportations in Switzerland using API http://transport.opendata.ch
-- Use current location to automatically search with nearest station
+- Use current location to automatically fill search with nearest station
 - Save connection to favorites
-- Save home address (Automatically Search nearest station of the home address)
+- Save home address (automatically fill search nearest station of the home address)
 
 ## Required
 - Android Development Studio
