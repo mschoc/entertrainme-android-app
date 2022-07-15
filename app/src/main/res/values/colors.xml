@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#FFFFFF</color>
+    <color name="colorPrimaryDark">#2B2B2B</color>
+    <color name="colorPrimaryFavorite">#F5E042</color>
+    <color name="colorPrimaryLightBackground">#FAFAFA</color>
+    <color name="colorAccent">#2B2B2B</color>
+    <color name="colorPressed">#58857e</color>
+    <color name="colorFocused">#5e7974</color>
+    <color name="colorConnections">#E8E8E8</color>
+    <color name="colorInactive">#E8E8E8</color>
+</resources>
