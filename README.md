@@ -20,7 +20,7 @@
 - Run app on a defined device
 
 ## APK-File
-- entrainme-android_app/apk/app.apk
+- entertrainme-android-app/apk/app.apk
 
 ## Screenshot
 ![Alt text](/screenshot/screenshot-ui-android-app.png?raw=true "User Interface Android App")
